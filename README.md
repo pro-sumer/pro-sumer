@@ -1,4 +1,11 @@
-### Hi there 👋
+### About me
+
+[pro-sumer](https://prosumer.crd.co): "_An individual who both produces and consumes_"
+
+### How I use GitHub
+
+* Often using private repositories for personal projects
+* Sometimes submitting issues or pull requests for projects that my code depends on
 
 <!--
 **pro-sumer/pro-sumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
