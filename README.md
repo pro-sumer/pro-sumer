@@ -5,7 +5,7 @@
 ### How I use GitHub
 
 * Often using private repositories for personal projects
-* Sometimes submitting issues or pull requests for projects that my code depends on
+* Sometimes contributing to projects that my code/workflows depend on
 
 <!--
 **pro-sumer/pro-sumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
