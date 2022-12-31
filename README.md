@@ -1,6 +1,6 @@
 ### About me
 
-[pro-sumer](https://rob.prosumer.dev): "_An individual who both produces and consumes_"
+[pro-sumer](https://prosumer.dev): "_An individual who both produces and consumes_"
 
 ### How I use GitHub
 
