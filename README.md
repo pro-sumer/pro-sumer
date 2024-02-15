@@ -7,7 +7,7 @@
 * Often using private repositories for personal projects
 * Sometimes contributing to projects that my code/workflows depend on
 
-<!-- proven0da453 -->
+Proof of ownership: proven0da453
 
 <!--
 **pro-sumer/pro-sumer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
